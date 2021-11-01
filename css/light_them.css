@@ -1,0 +1,66 @@
+body {
+    background: #E5E5E5 !important;
+}
+
+
+.logo {
+    background: #fff;
+}
+
+.title {
+    color: #000000;
+}
+
+.header__registor-block-none {
+    background: #FFFFFF;
+}
+
+
+.header__registor-block-none-title {
+    color: #000000;
+    background: #C4C4C4;
+}
+
+.header__registor-input {
+    background: #FFFFFF;
+    color: #000000;
+}
+
+.input,
+.input-email {
+    background: #FFFFFF !important;
+}
+
+.register-btn {
+    background: #000000;
+    border-radius: 5px solid black;
+    color: #ffff;
+}
+
+
+.register-btn:hover {
+    background: #9c05f3;
+    border-radius: 5px solid #9c05f3;
+    color: rgb(0, 0, 0);
+}
+
+
+.footer__register {
+    background: #FFFFFF;
+}
+
+
+
+.footer__register-link {
+    color: #000000;
+}
+
+.footer__register-link:hover {
+    color: red;
+}
+
+.copyright {
+    color: #000000;
+}
+
+

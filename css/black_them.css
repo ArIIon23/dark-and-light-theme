@@ -1,0 +1,95 @@
+
+
+
+body {
+    background: #222226 !important;
+}
+
+
+.logo {
+    background: #333336;
+}
+
+.title {
+    color: #ffff;
+}
+
+.header__registor-block-none {
+    background: #333336;
+}
+
+
+.header__registor-block-none-title {
+    color: #ffff;
+    background: #505050
+}
+
+.header__registor-input {
+    background: #333336;
+    color: #ffff;
+}
+
+.input,
+.input-email {
+    background: #222226 !important;
+    background-color: #fff;
+    color: #ffff;
+}
+
+.register-btn {
+    background: #565656;
+   border-radius: 5px solid #0000;
+    color: #ffff;
+  
+}
+
+
+.register-btn:hover {
+    background: #9c05f3;
+    border-radius: 5px solid #9c05f3;
+    color: rgb(0, 0, 0);
+}
+
+
+.footer__register {
+    background: #333336;
+}
+
+
+
+.footer__register-link {
+    color: #fff;
+}
+
+.footer__register-link:hover {
+    color: red;
+}
+
+.copyright {
+    color: #ffff;
+}
+
+
+
+
+.logo-btn{
+    color: black;
+    font-size: 16px;
+    border: 2px solid black;
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+
+
+.logo-btn:hover{
+    transform: 0.4s;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px 20px;
+    border-radius: 5px;
+    background: #000;
+    text-decoration: none;
+}
+
+
